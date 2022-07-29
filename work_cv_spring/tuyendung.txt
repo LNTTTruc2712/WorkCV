@@ -1,0 +1,25 @@
+Website việc làm
+1. Trang chủ
+- Hiển thị các công ty nổi bật 
+- Hiển thị các công việc mới nhất
+2. Nhà tuyển dụng
+- đăng ký tài khoản,login, logout
+- Upload ảnh đại diện, logo công ty
+- Gửi mail khi đăng ký để xác thực tài khoản
+- Trang thông tin công ty (đăng ký thông tin công ty, update thông tin công ty)
+- Quản lý đăng tin tuyển dụng 
+- Quản lý ứng viên 
+- Đăng tin tuyển dụng
+- Cập nhập tin tuyển dụng
+- Xóa tin tuyển dụng
+3.Người tìm việc
+- đăng ký tài khoản, login, logout
+- Upload ảnh đại diện
+- Gửi mail khi đăng ký để xác thực tài khoản
+- chức năng tìm việc (tìm kiếm theo công việc, ứng viên, địa điểm)
+- chức năng tạo CV (upload file pdf)
+- xem chi tiết công việc, xoá sửa CV của mình
+- chức năng ứng tuyển 
+- chức năng theo dõi công việc, theo dõi công ty 
+- Xem danh sách công việc của cty đã theo dõi
+- Quản lý các việc đã ứng tuyển, đã theo dõi

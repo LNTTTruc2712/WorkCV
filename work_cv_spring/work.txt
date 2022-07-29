@@ -1,0 +1,17 @@
+1. Trang chủ
+- Hiển thị các công ty nổi bật(Dựa theo số bài đăng tuyển và hiển thị ra số bài ứng tuyển) 
+- Hiển thị các công việc mới nhất(Anh cho nó hiện ra view cái ngày đăng tuyển gần nhất,
+- Tách đăng ký, đăng nhập ra 2 trang khác nhau nha anh
+- Phần delete anh cho nó hiển thị xác nhận khi xóa nha
+- Phẩn nav anh Thêm 1 menu list công ty
++ 1 phần là top công ty (Dựa theo số bài đăng tuyển)
++ Danh sách công ty
+- còn cái nếu ứng viên ứng tuyển công ty anh cho thông báo để nhà tuyển dụng biết được không ạ
+(Nếu nhà tuyển dụng chấp nhập ứng viên thì anh thông báo cho ứng viên biết luôn ạ) --> thông báo qua email
+
+Đã sửa lỗi:
+Cái search: khi không đăng nhập nó search không được hù anh 
+Sửa lỗi khi update công ty bị mất ảnh
+
+Làm thêm :
+Chat live
